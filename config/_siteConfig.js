@@ -48,7 +48,7 @@ export default {
   // Main Layout/Style
   layout: {
     width: 'contained', // Options: contained, full
-    theme: 'sidebar-right' // Options: one-column, sidebar-right, sidebar-left
+    theme: 'one-column' // Options: one-column, sidebar-right, sidebar-left
   },
 
   // Card Layout
