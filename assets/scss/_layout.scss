@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat|Raleway&display=swap');
+
 /* purgecss start ignore */
 .site-layout-width-full{
   .container{
@@ -45,3 +47,6 @@ dt {
   font-weight: bold;
 }
 /* purgecss end ignore */
+body{
+  font-family: 'Montserrat';
+}

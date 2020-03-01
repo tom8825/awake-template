@@ -9,10 +9,10 @@ import theCMS from '../cms/netlify/cms'
  * General Site configurations
  */
 export default {
-  siteName: 'ThemeParker',
+  siteName: 'themeparker',
   tagline: 'Welcome to our blog.',
   featureImage: '/uploads/home-hero.jpg',
-  //logo: 'logo-component', // 'logo-component', // or '/logo.svg' for regular image
+  logo: 'logo-component', // 'logo-component', // or '/logo.svg' for regular image
   googleAnalytics: {
     on: true,
     id: process.env.GOOGLE_ANALYTICS_ID
